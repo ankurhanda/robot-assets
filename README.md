@@ -11,3 +11,5 @@ KUKA iiwa is obtained from pybullet data.
 Fetch Robot is obtained from https://github.com/openai/roboschool/tree/master/roboschool/models_robot
 
 YUMI is obtained from https://github.com/OrebroUniversity/yumi
+
+Ginger is from https://github.com/Rayckey/GingerURDF
