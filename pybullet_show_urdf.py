@@ -6,7 +6,7 @@ from time import sleep
 
 p.connect(p.GUI)
 
-robot_id = p.loadURDF("urdfs/kinova/kinova.urdf", useFixedBase=True)
+robot_id = p.loadURDF("/home/ankur/workspace/code/robot_scenarios_sim/models_pkg/models/kitchen/glasses.urdf", useFixedBase=True)
 
 p.setGravity(0, -9.81, 0)
 
