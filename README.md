@@ -9,3 +9,5 @@ UR5/UR10 is obtained from https://github.com/Gepetto/example-robot-data.git
 KUKA iiwa is obtained from pybullet data.
 
 Fetch Robot is obtained from https://github.com/openai/roboschool/tree/master/roboschool/models_robot
+
+YUMI is obtained from https://github.com/OrebroUniversity/yumi
