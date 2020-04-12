@@ -7,3 +7,5 @@ Robotiq Gripper is obtained from https://github.com/a-price/robotiq_arg85_descri
 UR5/UR10 is obtained from https://github.com/Gepetto/example-robot-data.git
 
 KUKA iiwa is obtained from pybullet data.
+
+Fetch Robot is obtained from https://github.com/openai/roboschool/tree/master/roboschool/models_robot
