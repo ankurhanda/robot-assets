@@ -13,3 +13,5 @@ Fetch Robot is obtained from https://github.com/openai/roboschool/tree/master/ro
 YUMI is obtained from https://github.com/OrebroUniversity/yumi
 
 Ginger is from https://github.com/Rayckey/GingerURDF
+
+Barrett Hand is from https://github.com/jhu-lcsr-attic/bhand_model
