@@ -18,6 +18,8 @@ Ginger is from https://github.com/Rayckey/GingerURDF
 
 Barrett Hand is from https://github.com/jhu-lcsr-attic/bhand_model
 
+Anymal is from https://github.com/ANYbotics/anymal_b_simple_description
+
 ## Conversion from xacro to URDF
 
 The repo also contains the code to convert xacro to urdf (obtained from https://github.com/doctorsrn/xacro2urdf). 
