@@ -6,7 +6,7 @@ from time import sleep
 
 p.connect(p.GUI)
 
-robot_id = p.loadURDF("/home/ankur/workspace/code/drake/examples/quadrotor/office.urdf", useFixedBase=True)
+robot_id = p.loadURDF("/home/ankur/workspace/code/iai_maps/iai_kitchen/IAI_kitchen.urdf", useFixedBase=True)
 
 p.setGravity(0, -9.81, 0)
 
