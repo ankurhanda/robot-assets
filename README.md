@@ -22,6 +22,8 @@ Barrett Hand is from https://github.com/jhu-lcsr-attic/bhand_model
 
 Anymal is from https://github.com/ANYbotics/anymal_b_simple_description
 
+Halodi is from https://github.com/Halodi/halodi-robot-models
+
 ### Object Assets 
 
 Kitchen asset is from https://github.com/code-iai/robot_scenarios_sim/tree/master/models_pkg/models/kitchen
