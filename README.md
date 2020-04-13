@@ -1,4 +1,4 @@
-This repository contains various robot arm and object URDFs.
+This repository contains various robot arm and object URDFs. The URDF models have been obtained from various publicly available resources and we have made sure that the links to the appropriate repositories where we got the models from are also provided. The purpose of this repository to put together many well known and often used models in one place. 
 
 ## URDFs
 
