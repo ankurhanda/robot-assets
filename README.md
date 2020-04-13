@@ -2,6 +2,8 @@ This repository contains various robot arm and object URDFs.
 
 ## URDFs
 
+### Robots 
+
 Franka Panda is obtained from https://github.com/dic-iit/gym-ignition-models
 
 Robotiq Gripper is obtained from https://github.com/a-price/robotiq_arg85_description
@@ -19,6 +21,10 @@ Ginger is from https://github.com/Rayckey/GingerURDF
 Barrett Hand is from https://github.com/jhu-lcsr-attic/bhand_model
 
 Anymal is from https://github.com/ANYbotics/anymal_b_simple_description
+
+### Object Assets 
+
+Kitchen asset is from https://github.com/code-iai/robot_scenarios_sim/tree/master/models_pkg/models/kitchen
 
 ## Conversion from xacro to URDF
 
