@@ -6,7 +6,7 @@ from time import sleep
 
 p.connect(p.GUI)
 
-robot_id = p.loadURDF("/home/ankur/workspace/code/halodi-robot-models/eve_r3_description/eve_r3_upper_body.urdf", useFixedBase=True)
+robot_id = p.loadURDF("/home/ankur/workspace/code/nasa-urdf-robots/r2_description/r2b.urdf", useFixedBase=True)
 
 p.setGravity(0, -9.81, 0)
 

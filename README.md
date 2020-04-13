@@ -24,6 +24,8 @@ Anymal is from https://github.com/ANYbotics/anymal_b_simple_description
 
 Halodi is from https://github.com/Halodi/halodi-robot-models
 
+R2 and Val are from https://github.com/gkjohnson/nasa-urdf-robots
+
 ### Object Assets 
 
 Kitchen asset is from https://github.com/code-iai/robot_scenarios_sim/tree/master/models_pkg/models/kitchen
