@@ -4,27 +4,21 @@ This repository contains various robot arm and object URDFs. The URDF models hav
 
 ### Robots 
 
-Franka Panda is obtained from https://github.com/dic-iit/gym-ignition-models
 
-Robotiq Gripper is obtained from https://github.com/a-price/robotiq_arg85_description
+| Robot Name      | Source                                                                   |
+|-----------------|--------------------------------------------------------------------------|
+| Franka Panda    | https://github.com/dic-iit/gym-ignition-models                           |
+| UR5/UR10/Kinova | https://github.com/Gepetto/example-robot-data.git                        |
+| KUKA iiwa       | pybullet                                                                 |
+| Fetch Robot     | https://github.com/openai/roboschool/tree/master/roboschool/models_robot |
+| YUMI            | https://github.com/OrebroUniversity/yumi                                 |
+| Ginger          | https://github.com/Rayckey/GingerURDF                                    |
+| Anymal          | https://github.com/ANYbotics/anymal_b_simple_description                 |
+| Halodi          | https://github.com/Halodi/halodi-robot-models                            |
+| R2 and Val      | https://github.com/gkjohnson/nasa-urdf-robots                            |
+| Robotiq Gripper | https://github.com/a-price/robotiq_arg85_description                     |
+| Barrett Hand    | https://github.com/jhu-lcsr-attic/bhand_model                            |
 
-UR5/UR10/Kinova are obtained from https://github.com/Gepetto/example-robot-data.git
-
-KUKA iiwa is obtained from pybullet data.
-
-Fetch Robot is obtained from https://github.com/openai/roboschool/tree/master/roboschool/models_robot
-
-YUMI is obtained from https://github.com/OrebroUniversity/yumi
-
-Ginger is from https://github.com/Rayckey/GingerURDF
-
-Barrett Hand is from https://github.com/jhu-lcsr-attic/bhand_model
-
-Anymal is from https://github.com/ANYbotics/anymal_b_simple_description
-
-Halodi is from https://github.com/Halodi/halodi-robot-models
-
-R2 and Val are from https://github.com/gkjohnson/nasa-urdf-robots
 
 ### Object Assets 
 
