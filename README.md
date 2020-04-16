@@ -9,7 +9,7 @@ This repository contains various robot arm and object URDFs. The URDF models hav
 |-----------------|--------------------------------------------------------------------------|
 | Franka Panda    | https://github.com/dic-iit/gym-ignition-models                           |
 | UR5/UR10/Kinova | https://github.com/Gepetto/example-robot-data.git                        |
-| KUKA iiwa       | pybullet                                                                 |
+| KUKA iiwa       | https://github.com/kuka-isir/iiwa_description                            |
 | Fetch Robot     | https://github.com/openai/roboschool/tree/master/roboschool/models_robot |
 | YUMI            | https://github.com/OrebroUniversity/yumi                                 |
 | Ginger          | https://github.com/Rayckey/GingerURDF                                    |
