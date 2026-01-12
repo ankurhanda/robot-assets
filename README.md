@@ -18,6 +18,8 @@ This repository contains various robot arm and object URDFs. The URDF models hav
 | R2 and Val      | https://github.com/gkjohnson/nasa-urdf-robots                            |
 | Robotiq Gripper | https://github.com/a-price/robotiq_arg85_description                     |
 | Barrett Hand    | https://github.com/jhu-lcsr-attic/bhand_model                            |
+| AR4             | https://github.com/ycheng517/ar4_ros_driver/tree/main/annin_ar4_description |
+| LeRobot SO100   | https://github.com/TheRobotStudio/SO-ARM100/tree/main/Simulation/SO100   |
 
 
 ### Object Assets 
